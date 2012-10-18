@@ -38,6 +38,6 @@ Clone this repo
 
 Create a base app or scaffold using the --template switch
 
-`geddy app myapp --template /path/to/the/cloned/repo
+`geddy app myapp --template /path/to/the/cloned/repo`
 
 Voila. Ditto
