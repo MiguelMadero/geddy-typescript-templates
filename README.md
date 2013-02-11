@@ -14,7 +14,7 @@ npm install it in your geddy app
 
 Scaffold your app using the new templates
 
-`$ npm scaffold todo title:default status --template typescript`
+`$ npm scaffold todo title:default status --templates typescript`
 
 Voila. Scaffold will use the files from this module instead of the default templates. 
 
@@ -26,7 +26,7 @@ npm install it globally
 
 Now you can create a new app using the base scripts on this module
 
-`$ geddy app myapp --template typescript`
+`$ geddy app myapp --templates typescript`
 
 Voila. v.s.
 
@@ -36,8 +36,8 @@ Clone this repo
 
 `$ git clone https://github.com/MiguelMadero/geddy-typescript-templates.git`
 
-Create a base app or scaffold using the --template switch
+Create a base app or scaffold using the --templates switch
 
-`geddy app myapp --template /path/to/the/cloned/repo`
+`geddy app myapp --templates /path/to/the/cloned/repo`
 
 Voila. Ditto
