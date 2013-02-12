@@ -1,0 +1,20 @@
+{
+  "name": "geddy-typescript-templates",
+  "version": "0.0.1",
+  "author": "Miguel Madero <node@miguelmadero.com>",
+  "description": "Typescript templates for geddy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiguelMadero/geddy-typescript-templates"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "geddy",
+    "typescript",
+    "templates"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": "*"
+  }
+}
