@@ -3,7 +3,11 @@ geddy-typescript-templates
 
 Contains typescript templates for geddy
 
-__Disclaimer:__ This is __work in progress__ and __experimental__. The main purpose of this project at this stage is to test a new `template` switch in geddy's cli. The following is just the expected usage. geddy-*-templates aren't working in geddy, available on NPM, might not even contain real templates and typescript or other template features might not be supported by geddy.
+
+__NOTE:__ typescript isn't currently supported in geddy. If you want to try another template have a look at [geddy-coffee-templates](https://github.com/MiguelMadero/geddy-coffee-templates).
+
+
+__Disclaimer:__ This is __work in progress__ and __experimental__. The main purpose of this project at this stage is to test a new `template` switch in geddy's cli. 
 
 
 ## Using from NPM
